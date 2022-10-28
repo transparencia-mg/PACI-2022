@@ -1,15 +1,23 @@
-# CRITÉRIOS DE AVALIAÇÃO
+# Avaliação - processo
 
- - Processo: sugestões de critérios de avaliação
+## Resumo
 
-    - foi possível elencar bases? se não, por que? houve alguma tentativa de contato prévio conosco ou no órgão?
+- 53 entidades, 18 com relatório no SEI, 26 com alguma forma de contato
 
-    - é possível conhecer as bases pelo relatório? ex.: HEMOMINAS x SEDESE, FAPEMIG
-        - é possível avaliar a viabilidade de abertura da base elencada no relatório? 
+- dificuldade principal foi de identificar bases a partir dos canais de transparência (e-SIC e FC)
 
-    - foi possível conhecer alguma base pelo contato prévio? IEPHA, IPSM, IPSEMG x FAOP, EMC 
+- papel esperado e limites dos interlocutores (analogia: pontos focais dos canais de transparênia passiva)
 
- - Notas
+## Sugestões de critérios de avaliação
+
+- foi possível elencar bases? se não, por que? houve alguma tentativa de contato prévio conosco ou no órgão?
+
+- é possível conhecer as bases pelo relatório? ex.: HEMOMINAS x SEDESE, FAPEMIG
+  - é possível avaliar a viabilidade de abertura da base elencada no relatório? 
+
+- foi possível conhecer alguma base pelo contato prévio? IEPHA, IPSM, IPSEMG x FAOP, EMC 
+
+## Sugestões de Notas
  
  - não entregou (0)
  - entregou com atraso e não identificou a base (25)

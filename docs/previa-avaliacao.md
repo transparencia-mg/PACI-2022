@@ -1,25 +1,19 @@
-# PACI SCT 2022-10-20
+# Introdução
 
-- avaliação prévia com foco no processo
+- Esta é uma avaliação prévia com foco no processo e serve como subsídio para:
 
-	- serve como subsídio para elencar critérios de avaliação (pontuação) no PACI
+	1. elencar critérios de avaliação (pontuação) no PACI
 
-	- mas objetivo é o mesmo da meta do V.A. = abrir bases de dados
+	2. conhecer as bases apresentadas e a viabilidade de sua abertura
 
-	- estratégia digital = abrir 10 bases de dados que não sejam de curadoria da CGE (EIXO 7 = https://planejamento.mg.gov.br/pagina/gestao-governamental/gestao-de-ti/politica-de-tic)
+	3. elencar critérios para um cronograma de abertura 
 
-	- processo de abertura por adesão
+- Lembrando algumas premissas dessa ação no PACI 2022:
 
-	- preparação para pedido de abertura via e-SIC a qualquer tempo (a depender do interlocutor)
+	- preparação para pedido de abertura via e-SIC a qualquer tempo 
 
-	- preparação para possível obrigatoriedade de publicar dados via _Planos de Abertura (ilusão!)_  
+	- preparação para possível obrigatoriedade de publicar dados via Planos de Abertura 
 
-- 53 entidades, 8 com relatório no SEI, 19 com alguma forma de contato
+	- afinal de contas, o objetivo é o mesmo da meta do V.A. = abrir bases de dados (mas processo é por adesão)
 
-- dificuldade principal foi de identificar bases a partir dos canais de transparência (e-SIC e FC)
-
-	- papel esperado e limites dos interlocutores (analogia: pontos focais dos canais)
-
-
-
-
+	- estratégia digital = abrir 10 bases de dados que não sejam de curadoria da CGE (ver [EIXO 7](https://planejamento.mg.gov.br/pagina/gestao-governamental/gestao-de-ti/politica-de-tic))

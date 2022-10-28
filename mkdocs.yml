@@ -8,10 +8,6 @@ edit_uri: edit/main/docs/
 nav:
   - 1 PANORAMA: 'previa-avaliacao.md'
   - 2 AVALIAÇÃO: 'criterios-avaliacao.md'
-    - 2.1. CRITÉRIOS: ''
-  - 3 BASES PARA ABERTURA
-    - 3.1. CRITÉRIOS: ''
-
 
 # Configuration
 theme:

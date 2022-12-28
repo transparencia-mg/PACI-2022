@@ -6,11 +6,10 @@ repo_url: http://github.com/Andrelamor/PACI-2022
 edit_uri: edit/main/docs/
 
 nav:
-  - 1 PANORAMA: 'previa-avaliacao.md'
-  - 2 AVALIAÇÃO: 'criterios-avaliacao.md'
-  - 3 DADOS PASSÍVEIS DE ABERTURA:
-    - 3.1.  BASES APRESENTADAS: 'bases-apresentadas.md'
-    - 3.2. CRITÉRIOS PARA PROCESSO DE ABERTURA: 'criterios-abertura.md'
+  - 1 BASES APRESENTADAS E CRITÉRIOS PARA ABERTURA: 'criterios-abertura.md'
+  - 2 PANORAMA: 'previa-avaliacao.md'
+  - 3 AVALIAÇÃO: 'criterios-avaliacao.md'
+  - 4 REUNIÕES: '2022-12-28.md'  
 
 # Configuration
 theme:

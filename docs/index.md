@@ -2,10 +2,6 @@
 
 Repositório para reunião, acompanhamento e consolidação das entregas e ações relacionadas do PACI 2022 - Ação Dados Abertos
 
-## [BASES APRESENTADAS E CRITÉRIOS DE VIABILIDADE PARA ABERTURA](https://github.com/Andrelamor/PACI-2022/blob/main/docs/criterios-abertura.md)
-
-- - - 
-
 ## Materiais de Controle da DCTA:
 
 * [Controle dos relatórios recebidos](https://cecad365.sharepoint.com/:x:/r/sites/SUCTCGE/Documentos%20Compartilhados/PACI%202022/relatorios-sintese.xlsx?d=wf573b1a95b9442a49f147286e3b109b2&csf=1&web=1&e=S6Kyl8)
@@ -19,6 +15,10 @@ Repositório para reunião, acompanhamento e consolidação das entregas e açõ
 * [Apresentação](https://intranet.cge.mg.gov.br/subcontroladorias/suti/orientacoes-e-apresentacoes)
 
 * [Modelo Relatório](https://intranet.cge.mg.gov.br/subcontroladorias/suti/modelos-e-formularios)
+
+- - - 
+
+## [BASES APRESENTADAS E CRITÉRIOS DE VIABILIDADE PARA ABERTURA](https://github.com/Andrelamor/PACI-2022/blob/main/docs/criterios-abertura.md)
 
 - - - 
 

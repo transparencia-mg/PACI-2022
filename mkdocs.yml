@@ -9,7 +9,10 @@ nav:
   - PÁGINA INICIAL: 'index.md'
   - 1 BASES APRESENTADAS E CRITÉRIOS PARA ABERTURA: 'criterios-abertura.md'
   - 2 PANORAMA: 'previa-avaliacao.md'
-  - 3 AVALIAÇÃO: 'criterios-avaliacao.md'
+  - 3 AVALIAÇÃO:
+    - 3.1. SUFICIENTE: 'suficiente.md'
+    - 3.2. PARCIAL: 'parcial.md'
+    - 3.3. INCIPIENTE: 'incipiente.md'
   - 4 REUNIÕES: '2022-12-28.md'  
 
 # Configuration

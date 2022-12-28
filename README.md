@@ -1,4 +1,4 @@
-# PACI 2022 Dados Abertos
+# README
 
 Repositório para reunião, acompanhamento e consolidação das entregas e ações relacionadas do PACI 2022 - Ação Dados Abertos
 

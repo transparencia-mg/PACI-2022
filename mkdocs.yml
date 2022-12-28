@@ -6,6 +6,7 @@ repo_url: http://github.com/Andrelamor/PACI-2022
 edit_uri: edit/main/docs/
 
 nav:
+  - PÁGINA INICIAL: 'index.md'
   - 1 BASES APRESENTADAS E CRITÉRIOS PARA ABERTURA: 'criterios-abertura.md'
   - 2 PANORAMA: 'previa-avaliacao.md'
   - 3 AVALIAÇÃO: 'criterios-avaliacao.md'

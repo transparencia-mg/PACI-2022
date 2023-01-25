@@ -1,8 +1,8 @@
 site_name: PACI 2022 Dados Abertos
 
 # Repository
-repo_name: Andrelamor/PACI-2022
-repo_url: http://github.com/Andrelamor/PACI-2022
+repo_name: transparencia-mg/PACI-2022
+repo_url: http://github.com/transparencia-mg/PACI-2022
 edit_uri: edit/main/docs/
 
 nav:

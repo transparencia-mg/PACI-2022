@@ -21,7 +21,7 @@ Entretanto, para que possamos avançar, em nível central, na avaliação de via
 - caracterização de alguns elementos-chave das bases.
 
 
-![](static/etapas/Slide4.JPG)
+![](assets/images/etapas/Slide4.JPG)
 
 Estamos escalonando as bases indicadas pelas controladorias de todos órgãos e entidades, para inciarmos o processo de abertura, por adesão dos custodiantes de dados. Aquelas controladorias que demonstraram a caracterização das bases indicadas no relatório, com suficiência, serão priorizadas. Em momento oportuno, retomaremos o contato para planejar o início do processo de adesão à abertura das bases indicadas no seu órgão/entidade, com o acompanhamento desta Controladoria. 
 
